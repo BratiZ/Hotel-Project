@@ -1,0 +1,6 @@
+1 Pranie 32
+2 Gotowanie 18
+3 Sprzatanie 39
+4 Wynoszenie_smieci 8
+5 Wymiana_poscieli 98.5
+6 Zamawianie_Biletow 38

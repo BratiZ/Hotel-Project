@@ -1,0 +1,16 @@
+0  - czarny
+1  - niebieski
+2  - zielony
+3  - blekitny
+4  - czerwony
+5  - purpurowy
+6  - zolty
+7  - bialy
+8  - szary
+9  - jasnoniebieski
+10 - jasnozielony
+11 - jasnoblekitny
+12 - jasnoczerwony
+13 - jasnopurpurowy
+14 - jasnozolty
+15 - jaskrawobialy
